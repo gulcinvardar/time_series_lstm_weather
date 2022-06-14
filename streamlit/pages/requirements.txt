@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
+wetterdienst @ git+https://github.com/earthobservations/wetterdienst@6c27769fd1649abdd892fff55004cd7f9ba08e34
